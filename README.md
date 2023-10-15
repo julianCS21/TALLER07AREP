@@ -124,7 +124,10 @@ Una vez iniciamos sesion
 Usuario usado
 
 Usuario : admin
-Contrasea : tiktak
+
+
+
+Contraseña : tiktak
 
 
 
