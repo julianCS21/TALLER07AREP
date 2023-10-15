@@ -148,10 +148,11 @@ Ejecutamos el comando
 
 
 
- ### ¿Como el proyecot podria escalar, permitiendo aadir nuevos servicios?
+ ### ¿Como el proyecto podria escalar, permitiendo agregar nuevos servicios?
 
 
- Haber organizado los certificados en una carpeta llamada "certificates" y modularizado las funcionalidades en carpetas nos asegura una mayor escalabilidad al facilitar el mantenimiento, la seguridad y la incorporación de nuevos servicios en el proyecto.
+ 
+Haber organizado los certificados en una carpeta llamada "certificates" y modularizado las funcionalidades en carpetas nos asegura una mayor escalabilidad al facilitar el mantenimiento, la seguridad y la incorporación de nuevos servicios en el proyecto.
 
 
 
