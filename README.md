@@ -157,7 +157,7 @@ Ejecutamos el comando
 
 https://www.youtube.com/watch?v=IfK-iaqFWG8&ab_channel=JulianCastillo
 
-El video demuestra que esta desplegado en la nube de AWS, ademas muestrala conexion entre los dos backend a traves del protocolo HTTPS
+El video demuestra que esta desplegado en la nube de AWS, ademas muestra la conexion entre los dos backend a traves del protocolo HTTPS
 
 
 
